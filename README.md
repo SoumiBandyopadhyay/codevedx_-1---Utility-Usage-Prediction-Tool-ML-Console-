@@ -1,4 +1,4 @@
-````markdown
+
 # Utility Usage Prediction Tool
 
 ## Project Overview
