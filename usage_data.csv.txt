@@ -1,0 +1,4 @@
+month,units_used,bill_amount
+1,120,950
+2,150,1200
+3,180,1400
